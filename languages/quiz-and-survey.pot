@@ -1,0 +1,599 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2020-09-10 23:02+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: inc/class-qas-quiz-admin.php:45
+#: inc/class-qas-quiz-admin.php:46
+#: views/quiz-result.php:52
+#: views/quizzes.php:21
+#: views/quizzes.php:30
+msgid "Quizzes"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:54
+#: inc/class-qas-quiz-admin.php:55
+#: views/survey-result.php:77
+#: views/surveys.php:21
+#: views/surveys.php:30
+msgid "Surveys"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:63
+#: inc/class-qas-quiz-admin.php:64
+#: views/settings.php:13
+msgid "Settings"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:124
+#: views/generate-quiz-content.php:54
+#: views/new-quiz.php:93
+msgid "Submit"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:125
+#: views/edit-quiz.php:111
+#: views/settings.php:26
+msgid "Save"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:126
+#: inc/class-qas-quiz-admin.php:128
+msgid ""
+"Are you sure to delete?"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:127
+msgid ""
+"This will delete all "
+"results associated with "
+"it!"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:129
+msgid ""
+"Are you sure to delete "
+"the stored data when "
+"deleting the plugin?"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:144
+#: inc/class-qas-quiz-admin.php:250
+#: inc/class-qas-quiz-admin.php:272
+#: inc/class-qas-quiz.php:195
+#: inc/class-qas-quiz.php:388
+#: inc/class-qas-quiz.php:455
+#: inc/class-qas-quiz.php:482
+#: inc/class-qas-quiz.php:538
+#: inc/class-qas-quiz.php:579
+#: inc/class-qas-quiz.php:585
+msgid ""
+"Missing or invalid "
+"parameters"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:158
+msgid "Quiz deleted!"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:162
+msgid "Survey deleted!"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:265
+msgid "Record deleted!"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:278
+msgid "Saved!"
+msgstr ""
+
+#: inc/class-qas-quiz-admin.php:280
+msgid ""
+"Settings is not saved!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:132
+#: views/edit-quiz.php:10
+#: views/new-quiz.php:10
+#: views/quiz-result.php:11
+#: views/survey-result.php:11
+#: views/survey-result.php:46
+msgid "Wrong URL!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:162
+msgid ""
+"You haven't answer this "
+"question!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:163
+#: inc/class-qas-quiz.php:474
+#: inc/class-qas-quiz.php:556
+msgid ""
+"The quiz/survey does not "
+"exist! Please check the "
+"URL."
+msgstr ""
+
+#: inc/class-qas-quiz.php:181
+#: inc/class-qas-quiz.php:395
+#: views/show-quiz.php:36
+msgid ""
+"The quiz/survey does not "
+"exist!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:229
+msgid ""
+"Exceeded filesize limit!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:239
+#, php-format
+msgid ""
+"Failed to move the "
+"imported file: %s"
+msgstr ""
+
+#: inc/class-qas-quiz.php:244
+#, php-format
+msgid "Wrong file type: %s"
+msgstr ""
+
+#: inc/class-qas-quiz.php:290
+#: lib/class-qas-markdown.php:66
+msgid ""
+"There is not any "
+"question in the imported "
+"file!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:350
+msgid ""
+"The csv file is not "
+"UTF-8 encoded."
+msgstr ""
+
+#: inc/class-qas-quiz.php:402
+#: views/edit-quiz.php:73
+msgid ""
+"Note: This survey has "
+"been taken by someone, "
+"it is not able to "
+"reimport questions from "
+"a file."
+msgstr ""
+
+#: inc/class-qas-quiz.php:489
+#, php-format
+msgid ""
+"Missing answer for "
+"question %d."
+msgstr ""
+
+#: inc/class-qas-quiz.php:524
+#, php-format
+msgid ""
+"Congratulations! You "
+"passed the quiz. You got "
+"%d points!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:526
+#, php-format
+msgid ""
+"Sorry, you did not pass "
+"the quiz. You got %d "
+"points!"
+msgstr ""
+
+#: inc/class-qas-quiz.php:596
+msgid ""
+"Thank you for taking "
+"this survey!"
+msgstr ""
+
+#: lib/class-qas-csv.php:28
+msgid ""
+"This value must be 1 or 0"
+msgstr ""
+
+#: lib/class-qas-csv.php:32
+msgid ""
+"This value must be a "
+"number"
+msgstr ""
+
+#: lib/class-qas-csv.php:48
+msgid ""
+"There are too few columns"
+msgstr ""
+
+#: lib/class-qas-csv.php:58
+#: lib/class-qas-csv.php:77
+#, php-format
+msgid ""
+"Error occured in line "
+"%d: \"%s\".<br>%s"
+msgstr ""
+
+#: lib/class-qas-csv.php:59
+msgid ""
+"The type must be MC, SC, "
+"or FB."
+msgstr ""
+
+#: lib/class-qas-csv.php:66
+#, php-format
+msgid ""
+"Error occured in line "
+"%d: Answer is not set "
+"after the question title"
+msgstr ""
+
+#: lib/class-qas-csv.php:70
+#, php-format
+msgid ""
+"Error occured in line "
+"%d: Filling in the "
+"blanks is not supported "
+"for a survey"
+msgstr ""
+
+#: lib/class-qas-csv.php:78
+msgid ""
+"Please check the columns "
+"count."
+msgstr ""
+
+#: lib/class-qas-csv.php:93
+#: lib/class-qas-csv.php:100
+#, php-format
+msgid ""
+"Error occured in line %d "
+"column %d: \"%s\".<br>%s"
+msgstr ""
+
+#: lib/class-qas-csv.php:119
+#, php-format
+msgid ""
+"Error occured in line "
+"%d: No option is set as "
+"an answer"
+msgstr ""
+
+#: lib/class-qas-markdown.php:114
+#, php-format
+msgid ""
+"Question %d: It is not "
+"complete."
+msgstr ""
+
+#: lib/class-qas-markdown.php:134
+#, php-format
+msgid ""
+"Question %d: Wrong "
+"question type \"%s\"."
+msgstr ""
+
+#: lib/class-qas-markdown.php:138
+#, php-format
+msgid ""
+"Question %d: Wrong "
+"question type: \"%s\". "
+msgstr ""
+
+#: lib/class-qas-markdown.php:165
+#, php-format
+msgid ""
+"Question %d: Answer is "
+"not set or not set "
+"correctly."
+msgstr ""
+
+#: lib/class-qas-markdown.php:168
+#, php-format
+msgid ""
+"Quesiton %d: Type \"FB\" "
+"is not supported for a "
+"survey."
+msgstr ""
+
+#: lib/qas-csv-util.php:82
+#: lib/qas-csv-util.php:91
+#, php-format
+msgid "Wrong format: %d."
+msgstr ""
+
+#: views/edit-quiz.php:24
+msgid ""
+"The page does not exist!"
+msgstr ""
+
+#: views/edit-quiz.php:29
+msgid "Edit Quiz"
+msgstr ""
+
+#: views/edit-quiz.php:30
+#: views/new-quiz.php:21
+msgid ""
+"New Quiz From a CSV File"
+msgstr ""
+
+#: views/edit-quiz.php:31
+#: views/new-quiz.php:22
+#: views/quizzes.php:16
+msgid "All Quizzes"
+msgstr ""
+
+#: views/edit-quiz.php:36
+msgid "Edit Survey"
+msgstr ""
+
+#: views/edit-quiz.php:37
+#: views/new-quiz.php:26
+msgid ""
+"New Survey From a CSV "
+"File"
+msgstr ""
+
+#: views/edit-quiz.php:38
+#: views/new-quiz.php:27
+#: views/surveys.php:16
+msgid "All Surveys"
+msgstr ""
+
+#: views/edit-quiz.php:63
+#: views/new-quiz.php:48
+msgid "Quiz File"
+msgstr ""
+
+#: views/edit-quiz.php:80
+msgid "Quiz Title"
+msgstr ""
+
+#: views/edit-quiz.php:90
+#: views/new-quiz.php:74
+msgid "Pass Score"
+msgstr ""
+
+#: views/edit-quiz.php:94
+#: views/new-quiz.php:78
+msgid ""
+"Input a number in range "
+"of 0~100"
+msgstr ""
+
+#: views/edit-quiz.php:102
+#: views/new-quiz.php:84
+msgid "Permission"
+msgstr ""
+
+#: views/edit-quiz.php:105
+#: views/new-quiz.php:87
+msgid "Anyone can respond"
+msgstr ""
+
+#: views/generate-quiz-content.php:17
+#: views/generate-quiz-content.php:46
+#: views/survey-result.php:87
+msgid "Question"
+msgstr ""
+
+#: views/generate-quiz-content.php:52
+msgid "Previous"
+msgstr ""
+
+#: views/generate-quiz-content.php:53
+msgid "Next"
+msgstr ""
+
+#: views/new-quiz.php:20
+#: views/quizzes.php:27
+msgid "New Quiz"
+msgstr ""
+
+#: views/new-quiz.php:25
+#: views/surveys.php:28
+msgid "New Survey"
+msgstr ""
+
+#: views/new-quiz.php:55
+msgid ""
+"Note: Upload file name "
+"will be used as the quiz/"
+"survey name if it is not "
+"set in file."
+msgstr ""
+
+#: views/new-quiz.php:64
+msgid ""
+"Download demo markdown"
+msgstr ""
+
+#: views/new-quiz.php:65
+msgid "Download demo CSV"
+msgstr ""
+
+#: views/new-quiz.php:66
+msgid ""
+"How to create a markdown/"
+"CSV file for a quiz/"
+"survey"
+msgstr ""
+
+#: views/quiz-result.php:41
+msgid "Visitor"
+msgstr ""
+
+#: views/quiz-result.php:42
+#: views/quizzes.php:12
+#: views/surveys.php:12
+msgid "Delete"
+msgstr ""
+
+#: views/quiz-result.php:47
+#: views/quiz-result.php:56
+msgid "Quiz Result"
+msgstr ""
+
+#: views/quiz-result.php:61
+#: views/quizzes.php:35
+#: views/survey-result.php:86
+#: views/survey-result.php:162
+#: views/surveys.php:35
+msgid "No."
+msgstr ""
+
+#: views/quiz-result.php:62
+msgctxt "name"
+msgid "Name"
+msgstr ""
+
+#: views/quiz-result.php:63
+msgid "Score"
+msgstr ""
+
+#: views/quiz-result.php:64
+msgid "Date"
+msgstr ""
+
+#: views/quiz-result.php:65
+#: views/quizzes.php:39
+#: views/surveys.php:39
+msgid "Action"
+msgstr ""
+
+#: views/quizzes.php:13
+#: views/surveys.php:13
+msgid "Edit"
+msgstr ""
+
+#: views/quizzes.php:36
+#: views/surveys.php:36
+msgctxt "title"
+msgid "Name"
+msgstr ""
+
+#: views/quizzes.php:37
+#: views/surveys.php:37
+msgid "Shortcode"
+msgstr ""
+
+#: views/quizzes.php:38
+#: views/surveys.php:38
+msgid "Taken"
+msgstr ""
+
+#: views/settings.php:18
+msgid "Data Option"
+msgstr ""
+
+#: views/settings.php:23
+msgid ""
+"Delete the stored data "
+"when uninstalling the "
+"plugin."
+msgstr ""
+
+#: views/show-quiz.php:48
+msgid ""
+"You need to login to "
+"take this quiz/survey."
+msgstr ""
+
+#: views/show-quiz.php:49
+msgid "Log in"
+msgstr ""
+
+#: views/show-quiz.php:66
+msgid ""
+"You have already "
+"completed the quiz/"
+"survey!"
+msgstr ""
+
+#: views/survey-result.php:72
+msgid "Survey Results"
+msgstr ""
+
+#: views/survey-result.php:81
+msgid ""
+"Survey Results Overview"
+msgstr ""
+
+#: views/survey-result.php:94
+msgid "Average"
+msgstr ""
+
+#: views/survey-result.php:142
+msgid "Total Score"
+msgstr ""
+
+#: views/survey-result.php:147
+msgid ""
+"Survey Results Details"
+msgstr ""
+
+#: views/survey-result.php:150
+msgid ""
+"Results details for each "
+"question:"
+msgstr ""
+
+#: views/survey-result.php:163
+msgid "Option"
+msgstr ""
+
+#: views/survey-result.php:164
+msgid "Count"
+msgstr ""

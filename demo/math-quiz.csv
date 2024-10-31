@@ -1,0 +1,4 @@
+No.,Type,Title,Option,IsAnswer,,,,,,
+,SC,"Calculate the area of the following triangle.<br><img src='/wp-content/plugins/quiz-and-survey/demo/area-triangle.jpg'><br>The units may be mixed.",[latex]12cm^2[/latex],0,[latex]140cm^2[/latex],0,[latex]14cm^2[/latex],1,,
+,MC,"When I am as old as my older brother is today, my brother will be twice as old as I am today.<br>Which ages are the possible cases?","I am 9, my brother is 13",0,"I am 8, my brother is 12",1,"I am 22, my brother is 33",1,"I am 16, my brother is 24",1
+,FB,"Evaluate the following expression for x = -5:<br><p>[latex]\frac {3(x+3^2)}{2}[/latex]</p>",6,1,,,,,,

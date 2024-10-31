@@ -1,0 +1,74 @@
+== Changelog ==
+
+**This is a list detailing changes.**
+
+= 1.2.2 =
+
+** Features**
+* Allow complex questions with images, formulas, paragraphs, etc.
+* Add previous question button.
+
+**Optimization**
+* Quicker quiz loading. Genreate quiz html content once.
+* Optimize display of a question title to show complex content better.
+
+**Bug fixes**
+* Fix option count of a question in CSV need to be the same. With this fix, if an option title is left empty, then it indicates the end meaning the preivisou option will be the last one.
+
+= 1.2.1 =
+
+**Features**
+* Allow anyone to respond to quizzes.
+
+**Bug fixes**
+* The title is missed when pasing a shortcode.
+* Redirect to the quiz/survey URL after logged in when using a shortcode.
+
+= 1.2 =
+
+**Features**
+* Allow anyone to reapond to surveys.
+* Add editting page for titles and other settings of quizzes/surveys.
+* Allow using a custom name when importing a quiz/survey.
+
+**Optimization**
+* Only load resources to the needed pages.
+* Quiz/survey is listed in descending order instead of ascending order.
+
+**Bug fixes**
+* Quiz/survey names are encoded to wrong format.
+* Repeadted submissions caused by mouse clicking problems.
+
+= 1.1 =
+
+**Features**
+* Allow anyone to reapond to surveys
+* Support shortcode
+
+**Bug fixes**
+* Submit dates for surveys are not set.
+
+= 1.0 =
+* Initial official plugin release.
+
+== Frequently Asked Questions ==
+
+= Can I create a quiz or survey by importting data from a CSV file?
+
+Of course you can, and it is the only way provided to create a new quiz/survey.
+
+= How to write a CSV file for a quiz of survey? =
+
+See <a href="https://www.gloomycorner.com/quizandsurvey/#how-to-use">how to use it</a>.
+
+= How many quizzes and surveys can I create using the plugin? =
+
+You can create as many quizzes and surveys as you wish. There are no limitations on that.
+
+= Does this plugin offer demo quiz and survey CSV files? =
+
+Yes, you can download the demo quiz and survey files to help creating your own quizzes and surveys.
+
+= Will it work with my WordPress theme? =
+
+Quiz and Survey will work with any WordPress theme out there. If you are facing any issue while using, please contact us and we will help you resolve it.

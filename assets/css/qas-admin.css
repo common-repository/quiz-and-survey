@@ -1,0 +1,56 @@
+/**
+ * For admin backend display.
+ */
+.container {
+    width: inherit; /* adjust the width to advoid oversize */
+    padding-top: 10px;
+}
+.container .pull-right a{
+    margin: 4px 4px 0 0;
+}
+.panel {
+    border-color: #adadad !important;
+}
+.panel > .panel-heading {
+    background-color: #23282d !important;
+}
+.breadcrumb{
+    font-weight: 600;
+    font-size: 14px;
+    margin: 15px 0;
+}
+label.error{
+    color: red;
+}
+.text-red{
+    color: red;
+}
+body.processing:before{
+    background: rgba(0, 0, 0, 0.55);
+    top: 0;
+    left: 0;
+    position: fixed;
+    content: "";
+    z-index: 100;
+    height: 100%;
+    width: 100%;
+}
+body.processing {
+    position: relative;
+}
+a.current{
+    padding: 1px;
+    font-size: 10px;
+    font-weight: 600;
+}
+#qrcode {
+    display:none;
+    width:auto;
+    height:auto;
+    padding:15px;
+}
+.title-bg-primary {
+    background-color: #337ab7;
+    padding: 10px 15px;
+    color: #fff;
+}
